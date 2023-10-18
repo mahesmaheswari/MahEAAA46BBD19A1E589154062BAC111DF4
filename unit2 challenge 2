@@ -1,4 +1,4 @@
-
+ET
 class Player(object):
 
   def __init__(self, name, age, skills, style=None):
